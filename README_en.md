@@ -1,11 +1,9 @@
 # ⚡ Zapier Showcase – AI-Powered Automations
 
-![Workflow](tri_resume/workflow.png)
-
 ## Overview
 
-This repository presents **2 Zapier workflows** using AI to automate email processing.  
-Goal: demonstrate Zapier skills in a professional context, integrating AI, classification, and automatic archiving.  
+This repository is a Zapier skills showcase: two simple workflows (email summarization & classification, sentiment analysis) demonstrate my ability to use Zapier with AI integrations and Google Workspace.
+It is not a production project, but a demonstration designed to highlight my automation skills. 
 
 ---
 
