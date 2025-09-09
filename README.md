@@ -5,6 +5,7 @@
 
 Ce dépôt est une vitrine de compétences Zapier : deux workflows simples (résumé + tri d’emails, analyse de sentiments) démontrent ma capacité à utiliser Zapier avec des intégrations IA et Google Workspace.
 Il ne s’agit pas d’un projet de production, mais d’une démonstration destinée à illustrer mes compétences dans le domaine de l’automatisation.
+
 ---
 
 ## 🔹 Workflow 1 – Tri & Résumé des Emails → Google Sheets
